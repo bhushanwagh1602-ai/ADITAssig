@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.opik_traces/
+.opik_test_traces/
+.opik_test_traces_privacy/
+.venv/
+*.pyc
